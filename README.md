@@ -1,6 +1,6 @@
 # codeblock
 
-Package built on top of flutter_highlight for more control over how the code itself is displayed
+Package built on top of ```flutter_highlight``` for more control over how the code itself is displayed
 
 ## Getting Started
 
